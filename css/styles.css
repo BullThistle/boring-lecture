@@ -1,0 +1,18 @@
+h2.intro {
+  font-size: 50px;
+  color: #657a68;
+}
+
+p.intro {
+  font-size: 14px;
+  color: #7a6565;
+}
+
+img.intro {
+   filter: alpha(opacity=50);
+   opacity: 0.5;
+}
+
+body {
+  background-color: #d5d693;
+}
